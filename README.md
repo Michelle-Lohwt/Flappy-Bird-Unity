@@ -6,5 +6,5 @@ Author: Michelle Loh
 See the game showcase [here](https://youtu.be/0o8h6CPsuV8)
 
 ## Download
-Unity Download: https://store.unity.com/download-nuo (v 2019.4.29f1(LTS))
+Unity Download: https://store.unity.com/download-nuo (v 2019.4.29f1(LTS)) <br>
 Visual Studio Community: https://visualstudio.microsoft.com/downloads/
